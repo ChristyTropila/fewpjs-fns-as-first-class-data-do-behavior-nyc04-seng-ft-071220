@@ -7,7 +7,13 @@ function handleClick(e) {
   displayMessage(greet(timeString))
 }
 
+functin displayMessage(msgString){
+  document.getElementById('greeting').intterText=msgString;
+}
 /* End Given Code, don't edit above here...*/
+
+
+
 
 /* Write your implementation of greet() */
 /* Write your implementation of displayMessage() */
