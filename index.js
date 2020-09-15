@@ -7,7 +7,7 @@ function handleClick(e) {
   displayMessage(greet(timeString))
 }
 
-functin displayMessage(msgString){
+function displayMessage(msgString){
   document.getElementById('greeting').innerText=msgString;
 }
 /* End Given Code, don't edit above here...*/
