@@ -8,7 +8,7 @@ function handleClick(e) {
 }
 
 functin displayMessage(msgString){
-  document.getElementById('greeting').intterText=msgString;
+  document.getElementById('greeting').innerText=msgString;
 }
 /* End Given Code, don't edit above here...*/
 
